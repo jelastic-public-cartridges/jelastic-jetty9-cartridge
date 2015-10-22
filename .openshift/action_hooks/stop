@@ -11,7 +11,7 @@ jetty_pid=`ps aux|grep java|grep jetty|grep -v grep|awk '{print $2}'`;
 		if [ -z "$jetty_pid" ] 
 			then echo "Jetty9 stopped successfully" && break;
 		fi 
-       		kill $jetty_pid && rm -f /opt/repo/versions/9.3.3/jetty.pid;
+       		kill $jetty_pid && rm -f /opt/repo/versions/9.3.5/jetty.pid;
        		sleep 3;
 	done
     else 

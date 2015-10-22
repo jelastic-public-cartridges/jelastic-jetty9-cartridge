@@ -2,11 +2,11 @@ Name: jetty9
 Cartridge-Short-Name: JETTY9
 Display-Name: JETTY9
 Description: "Jelastic Jetty9"
-Version: '9.3.3'
+Version: '9.3.5'
 License: 'Apache licence'
 License-Url: 
 Vendor: Eclipse
-Cartridge-Version: 9.3.3
+Cartridge-Version: 9.3.5
 Cartridge-Vendor: Jelastic
 Categories:
   - service
