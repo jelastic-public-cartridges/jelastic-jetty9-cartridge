@@ -1,5 +1,5 @@
 #!/bin/bash
-CONFFILE='/opt/repo/versions/9.1.3/etc/variables.conf'
+CONFFILE='/opt/repo/versions/9.3.3/etc/variables.conf'
 JELASTIC_GC_AGENT="jelastic-gc-agent.jar"
 
 SED=`which sed`
